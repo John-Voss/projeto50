@@ -1,0 +1,110 @@
+#index_header{
+    color: brown;
+    border: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: bisque;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+.custom{
+    color: darkblue;
+}
+#link{
+    color: rgb(230, 94, 230);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+#custom-h2-tut{
+    font-size: xx-large;
+    font-family: arial;
+    color:rgb(255, 140, 0);
+    text-align: center;
+}
+h5{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#img_size1{
+    width: 200px;
+    position: absolute;
+    left: 650px;
+    bottom: 150px;
+}
+#img_size2{
+    width: 180px;
+    position: absolute;
+    left: 1065px;
+    bottom: 130px;
+}
+#img_size3{
+    width: 210px;
+    position: absolute;
+    left: 240px;
+    bottom: 130px;
+}
+#line_divi{
+    border-width: 0.5px;
+    width: 1000px;
+    border-color: black;
+    border-radius: 10px;
+    position: absolute;
+    left: 250px;
+}
+#img_name1{
+    color:black;
+    font-family: Courier;
+    font-size: x-large;
+    position: absolute;
+    left: 710px;
+    top: 280px;
+}
+#img_name2{
+    color:black;
+    font-family: Courier;
+    font-size: x-large;
+    position: absolute;
+    left: 1130px;
+    top: 280px;
+}
+#img_name3{
+    color:black;
+    font-family: Courier;
+    font-size: x-large;
+    position: absolute;
+    left: 270px;
+    top: 280px;
+}
+#rects1{
+    width: 300px;
+    height: 300px;
+    position: absolute; 
+    left: 600px;
+    bottom: 100px;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-radius: 30px;
+    border-color: rgb(203, 203, 203);
+}
+#rects2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 1000px;
+    bottom: 105px;
+    background-color: white;
+    border: solid;
+    border-radius: 30px;
+    border-color: rgb(203, 203, 203);
+}
+#rects3{
+    width: 300px;
+    height:300px;
+    position: absolute;
+    left: 200px;
+    bottom: 100px;
+    background-color: white;
+    border: solid;
+    border-radius: 30px;
+    border-color: rgb(203, 203, 203);
+}
